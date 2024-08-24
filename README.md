@@ -7,11 +7,11 @@ O principal conceito é que seja o mais simples e direto possivel, contendo todo
 <tr>
   <td>Linguagem</td>
   <td>IDE</td>
-  <td>API</td>
+  <td>API | Android </td>
 </tr>
 <tr>
   <td>Kotlin</td>
   <td>Android Studio : JellyFish</td>
-  <td>API 28 - Android Pie</td>
+  <td>API 28 - Android 9 Pie</td>
 </tr>
 </table>
